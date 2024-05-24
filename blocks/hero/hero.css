@@ -1,9 +1,10 @@
 main .hero-container > div {
   max-width: unset;
 }
-  
+
 main .hero-container {
   padding: 0;
+  display: block;
 }
 
 .hero {
